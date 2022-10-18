@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a graduate from Lakhead University, Canada. I am pursing Master's Computer Science cause I believe that the next big change is and being brought by computer science.
 
 - 🔭 I’m currently working on developing Python based backend for Student Success Center at Lakehead University for helping student practise parapharsing using [Writing Assistant Tool](https://github.com/lakeheadtoolsdev/WAT).
 - 📱 I'm Also working on developing iOS and Android based native app for [Infusionist](https://www.infusionist.app) to help nurse manage task related to infusions.
